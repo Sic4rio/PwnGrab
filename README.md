@@ -53,5 +53,5 @@ Contributions are welcome! If you find any issues or want to enhance the script,
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
+ 
 Feel free to customize the content, formatting, and add any additional sections you think would be relevant.
