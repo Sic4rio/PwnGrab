@@ -22,12 +22,12 @@ A powerful Python script to extract websites from different sources, including Z
 1. Clone the repository:
 
 ```
-   git clone https://github.com/your-username/hit-list-scraper.git
+   git clone https://github.com/Sic4rio/PwnGrab
 ```
 Change into the project directory:
 
 ```
-cd hit-list-scraper
+cd PwnGrab
 ```
 Install the required dependencies:
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Run the script:
 
 ```
-python hit_list_scraper.py
+python pwn-grab.py
 ```
 Follow the on-screen instructions to choose the desired option:
 
